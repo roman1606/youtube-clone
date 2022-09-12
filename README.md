@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Click on the link to check out the working website:
+https://adorable-madeleine-b14d5c.netlify.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
+![Screenshot 2022-09-12 055613](https://user-images.githubusercontent.com/34632896/189640415-f0e02b88-73d7-466e-814e-7058c27e5042.png)
+
 
 ## Available Scripts
 
